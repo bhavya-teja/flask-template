@@ -4,7 +4,7 @@ The project is setup with virtualenv
 - Freeze requirements `pip freeze > requirements.txt`
 - Check env `which Python`
 Recommended to store secrets outside SCM or through Vaults
-- using `secrets.json` inside venv folder to handle secrets for this project (add /venv/ to .gitignore) 
+- using `secrets.json` inside venv folder to handle secrets for this project see template `secrets-template.json` 
 Format(with example values):
     ```json
     {
