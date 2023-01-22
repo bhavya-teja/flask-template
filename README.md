@@ -33,7 +33,8 @@ Format(with example values):
     ```
 
 ## Reference for Flask App: 
-https://www.digitalocean.com/community/tutorials/how-to-structure-a-large-flask-application-with-flask-blueprints-and-flask-sqlalchemy
+- Basic Structure: https://www.digitalocean.com/community/tutorials/how-to-structure-a-large-flask-application-with-flask-blueprints-and-flask-sqlalchemy
+- Navigation Styling: https://www.studytonight.com/bootstrap/how-to-align-navbar-items-in-left-center-or-right
 
 ## Quick debug
 To run template use `start.sh`.

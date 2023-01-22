@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <span class="title"><h1>{% block title %} Oops! Looks like the page doesn't exist anymore {% endblock %}</h1></span>
+    <div class="content">
+        <a href="{{ url_for('main.index') }}"><p>Click Here</a>To go to the Home Page</p>
+    </div>
+    
+{% endblock %}
